@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "KaqNQAzu7UQ0fBsN4rizahCH+pdIlELfosJlijPdQzbRasCKjGuqnqvfsTYHb3BV/a2rgMWVEHkfbamw94h+Dg==",
+  "dgSpecHash": "b8rBIlkuH7s1Xa4AGFo8hQgpVOqroC+S87wfM9UVjPA7+hxLzwLRGE0ZCJsKVGokxC+0EohDbMNCBkUjrq/0Ow==",
   "success": true,
   "projectFilePath": "C:\\Users\\Arcuster\\RiderProjects\\Notes\\Notes.Persistence\\Notes.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Arcuster\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Arcuster\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Arcuster\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\Arcuster\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Arcuster\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0\\microsoft.entityframeworkcore.analyzers.7.0.0.nupkg.sha512",
