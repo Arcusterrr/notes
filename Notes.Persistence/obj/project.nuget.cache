@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "b8rBIlkuH7s1Xa4AGFo8hQgpVOqroC+S87wfM9UVjPA7+hxLzwLRGE0ZCJsKVGokxC+0EohDbMNCBkUjrq/0Ow==",
+  "dgSpecHash": "tXXNXwaNRlBagZC0Rl6mRsNSaTZrsKwDiaiSjMIPh5FCly0laaLshEp6MM/fUhbFnGj2tNVkzBtp55bz7auUqw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Arcuster\\RiderProjects\\Notes\\Notes.Persistence\\Notes.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arcuster\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Arcuster\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Arcuster\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Arcuster\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Arcuster\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\Arcuster\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
